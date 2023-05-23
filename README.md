@@ -39,3 +39,8 @@ North Priner
 ```
 Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Print\Printers\TW-NORTH-PRINTER
 ```
+
+---
+
+These powershell scripts are based off of: 
+https://call4cloud.nl/2021/07/what-about-printer-drivers/
