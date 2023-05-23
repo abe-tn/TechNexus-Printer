@@ -13,7 +13,7 @@ _To ensure security you can download the drivers from Brothers themselves [here]
 * Install and Uninstall script
 
 ######Creating Intunewin file
-When creating the intunein file select No when you are asked if a catalog should be created.
+When creating the intunewin file select No when you are asked if a catalog should be created.
 
 ---
 
