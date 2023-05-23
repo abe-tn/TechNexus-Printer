@@ -12,6 +12,9 @@ In this repo you will find:
 _To ensure security you can download the drivers from Brothers themselves [here](https://support.brother.com/g/b/downloadend.aspx?c=us&lang=en&prod=mfcl8900cdw_all&os=10068&dlid=dlf103195_000&flang=4&type3=407)._
 * Install and Uninstall script
 
+######Creating Intunewin file
+When creating the intunein file select No when you are asked if a catalog should be created.
+
 ---
 
 ######Install Command
